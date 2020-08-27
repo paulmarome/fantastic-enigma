@@ -2,14 +2,14 @@
 This application showcases the basic components of a Swing app with Database and File Processing features.
 
 <h3><b>Features and Interfaces</b></h3>
-
-1. Splash Screen (Loading Screen) 
+<br>
+ 1. Splash Screen (Loading Screen) 
 <br></br>
 
 ![](snippets/Loading%20Form.PNG)
 <br></br>
-2. Automatic <b>MYSQL Database</b> configuration (support for both <b>XAMPP</b> and <b>WAMP</b>)
-
+2. Automatic <b>MYSQL Database</b> configuration (support for both <b>XAMPP</b> and <b>WAMP</b>)   
+<br>
 3. Language support for English, Zulu, Xhosa, and Sesotho
 4. Login interface
 <br></br>
