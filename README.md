@@ -21,7 +21,7 @@ This application showcases the basic components of a Swing app with Database and
 <br></br>
 6. <b>Menu interface</b> (allows a user to <b>Add Movies</b>, <b>Booking</b>, and view <b>Summary Statistics</b>)
 <br></br>
-![](snippets/menu%20form.PNG)
+![](snippets/menu.PNG)
 <br></br> 
 
 <h3><b>Running the program</b></h3>
