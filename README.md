@@ -19,7 +19,7 @@ This application showcases the basic components of a Swing app with Database and
   <li> Unzip the project, then open your command line window </li>
   <li> Once there, change directory to the unzipped project folder by typing, <b>cd</b> then type in 
     the folder name where you previously saved the unzipped project (if      
-       the project is inside a subdirectory, use <b>cd/folder_name</b></li>
+       the project is inside a subdirectory, use <b>cd/folder_name</b>)</li>
   <li> Then type, <b>cd dist</b></li>
   <li> Once complete, you should see <b>StemsEntertainmentProject/dist</b></li>
   <li> Type, <b>java -jar StemsEntertainmentProject.jar</b>, then press <b>Enter</b>
