@@ -3,23 +3,23 @@ This application showcases the basic components of a Swing app with Database and
 
 <h3><b>Features and Interfaces</b></h3>
 <br>
- 1. Splash Screen (Loading Screen) 
-<br></br>
+ 1. <b>Splash Screen (Loading Screen)</b> 
+<br><br>
 
 ![](snippets/Loading%20Form.PNG)
-<br></br>
-2. Automatic <b>MYSQL Database</b> configuration (support for both <b>XAMPP</b> and <b>WAMP</b>)   
+<br><br>
+2. Automatic <b>MYSQL Database</b> configuration (support for both <b>XAMPP</b> and <b>WAMP</b>)       
 <br>
-3. Language support for English, Zulu, Xhosa, and Sesotho
-4. Login interface
+3. Language support for English, Zulu, Xhosa, and Sesotho<br>      
+4. <b>Login interface</b>
 <br></br>
 ![](snippets/Loading%20Form.PNG)
 <br></br>
-5. Signup interface
+5. <b>Signup interface</b>
 <br></br>
 ![](snippets/Loading%20Form.PNG)
 <br></br>
-6. Menu interface (allows a user to <b>Add Movies</b>, <b>Booking</b>, and view <b>Summary Statistics</b>)
+6. <b>Menu interface</b> (allows a user to <b>Add Movies</b>, <b>Booking</b>, and view <b>Summary Statistics</b>)
 <br></br>
 ![](snippets/Loading%20Form.PNG)
 <br></br> 
