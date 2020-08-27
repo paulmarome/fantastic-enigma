@@ -3,15 +3,26 @@ This application showcases the basic components of a Swing app with Database and
 
 <h3><b>Features and Interfaces</b></h3>
 
-<ol>
-  <li> Splash Screen (Loading Screen) ![Image of Yaktocat](https://octodex.https://github.com/paulmarome/fantastic-enigma/blob/master/snippets/Loading Form.PNG) 
-  </li>
-  <li> Automatic <b>MYSQL Database</b> configuration (support for both <b>XAMPP</b> and <b>WAMP</b>)</li>
-  <li> Language support for English, Zulu, Xhosa, and Sesotho </li>
-  <li> Login interface </li>
-  <li> Signup interface </li>
-  <li> Menu interface (allows a user to <b>Add Movies</b>, <b>Booking</b>, and view <b>Summary Statistics</b> )</li>
-</ol>
+1. Splash Screen (Loading Screen) 
+<br></br>
+
+![](snippets/Loading%20Form.PNG)
+<br></br>
+2. Automatic <b>MYSQL Database</b> configuration (support for both <b>XAMPP</b> and <b>WAMP</b>)
+
+3. Language support for English, Zulu, Xhosa, and Sesotho
+4. Login interface
+<br></br>
+![](snippets/Loading%20Form.PNG)
+<br></br>
+5. Signup interface
+<br></br>
+![](snippets/Loading%20Form.PNG)
+<br></br>
+6. Menu interface (allows a user to <b>Add Movies</b>, <b>Booking</b>, and view <b>Summary Statistics</b>)
+<br></br>
+![](snippets/Loading%20Form.PNG)
+<br></br> 
 
 <h3><b>Running the program</b></h3>
 
