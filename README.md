@@ -4,7 +4,8 @@ This application showcases the basic components of a Swing app with Database and
 <h3><b>Features and Interfaces</b></h3>
 
 <ol>
-  <li> Splash Screen (Loading Screen) </li>
+  <li> Splash Screen (Loading Screen) ![fantastic-enigma](https://raw.github.com/paulmarome/fantastic-enigma/snippets/LoadingForm.png)
+  </li>
   <li> Automatic <b>MYSQL Database</b> configuration (support for both <b>XAMPP</b> and <b>WAMP</b>)</li>
   <li> Language support for English, Zulu, Xhosa, and Sesotho </li>
   <li> Login interface </li>
