@@ -13,15 +13,15 @@ This application showcases the basic components of a Swing app with Database and
 3. Language support for English, Zulu, Xhosa, and Sesotho<br>      
 4. <b>Login interface</b>
 <br></br>
-![](snippets/Loading%20Form.PNG)
-<br></br>
+![](snippets/login%20form.PNG)
+<br></br><br><br>
 5. <b>Signup interface</b>
-<br></br>
-![](snippets/Loading%20Form.PNG)
-<br></br>
+<br></br><br><br>
+![](snippets/signup%20form.PNG)
+<br></br><br><br>
 6. <b>Menu interface</b> (allows a user to <b>Add Movies</b>, <b>Booking</b>, and view <b>Summary Statistics</b>)
-<br></br>
-![](snippets/Loading%20Form.PNG)
+<br></br><br><br>
+![](snippets/menu%20form.PNG)
 <br></br> 
 
 <h3><b>Running the program</b></h3>
