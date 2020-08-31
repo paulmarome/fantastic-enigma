@@ -58,7 +58,7 @@ public final class LanguageResources
         }
     }
 
-    public static void setLanguageResourceFile(Object type, JComboBox choices)
+    public static void setLanguageResourceFile(Object type, JComboBox choice)
     {
         FILE_PROCESSOR.loadFile();
         boolean langKey = FILE_PROCESSOR.getProperties().containsKey(LANGUAGE);
@@ -71,9 +71,9 @@ public final class LanguageResources
         }
         else {
             WelcomeFrame.setDefaultResourceBundle(FILE_PROCESSOR);
-            setLanguageResourceFile(type, choices);
+            setLanguageResourceFile(type, choice);
         }
-        choices.setSelectedItem(language);
+        choice.setSelectedItem(language);
     }
 
     public static void selectLanguage(JComboBox choiceList, int count, Object type, JPanel container, JPanel outer, JFrame frame)

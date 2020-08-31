@@ -41,7 +41,7 @@ public class FileProcessor
             read = new FileReader(FILE_NAME);
             properties.load(read);
         }
-        catch(Exception fileErr) {
+        catch(IOException fileErr) {
             System.out.format("%s%n", fileErr);
         }
         finally 
