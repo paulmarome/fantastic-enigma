@@ -1,4 +1,4 @@
-# fantastic-layout
+# mantis-shrimp-layout
 This application showcases the basic components of a Swing app with Database and File Processing features.
 
 <h3><b>Features and Interfaces</b></h3>
