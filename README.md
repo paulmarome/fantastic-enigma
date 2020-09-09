@@ -5,7 +5,7 @@ This application showcases the basic components of a Swing app with Database and
 
 <h3><b>Features and Interfaces</b></h3>
 <br>
- 1. <b>Splash Screen (Loading Screen)</b> 
+ 1. <b>Splash Screen </b> 
 <br><br>
 
 ![](snippets/Loading%20Form.PNG)
