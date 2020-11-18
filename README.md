@@ -22,7 +22,7 @@ This application showcases the basic components of a Swing app with Database and
 <br></br>
 ![](snippets/signup%20form.PNG)
 <br></br>
-6. <b>Menu interface</b> (allows a user to <b>Add Movies</b>, <b>Booking</b>, and view <b>Summary Statistics</b>)
+6. <b>Menu interface</b> (allows a user to <b>Add Movies</b>, <b>Bookings</b>, and view <b>Summary Statistics</b>)
 <br></br>
 ![](snippets/menu.PNG)
 <br></br> 
